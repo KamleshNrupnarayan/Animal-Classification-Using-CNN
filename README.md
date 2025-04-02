@@ -16,9 +16,9 @@ This project implements a Convolutional Neural Network (CNN) model to classify a
 - [Results](#results)
 
 ## Features
-- **Animal Classification**: Classifies images into wild or pet categories with high accuracy.
+- **Animal Classification**: Images are classified into wild or pet categories with high accuracy.
 - **Customizable CNN Model**: The architecture is modular and can be easily modified for different classification tasks.
-- **Flexible Data Processing Pipeline**: Handles image resizing, normalization, and data augmentation for enhanced performance.
+- **Flexible Data Processing Pipeline**: It handles image resizing, normalization, and data augmentation for enhanced performance.
 
 ## Requirements
 Ensure you have the following installed:
@@ -28,6 +28,9 @@ Ensure you have the following installed:
 - numpy
 - matplotlib
 - jupyter (optional, for running the project notebook)
+
+## Required Dataset Used
+https://drive.google.com/drive/folders/154xc9b91o15SiyfcET2uAnSG46_5oJfz?usp=drive_link
 
 Install the requirements using:
 ```bash
